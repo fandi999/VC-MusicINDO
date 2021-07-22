@@ -32,7 +32,8 @@ Klik tombol Run on repl.it untuk membuat string milikmu, tolong pilih P yah jang
 `
 Klik tombol dibawah untuk deploy VC MusicINDO`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yunus-ZEND/VC-MusicINDO)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fandi999/fandi-musicc
+)
 
 ![addphoto](https://telegra.ph/file/8218eb6dceae195b9fb6f.jpg)
 
