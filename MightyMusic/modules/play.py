@@ -495,7 +495,7 @@ async def play(_, message: Message):
         )
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/f6086f8909fbfeb0844f2.png"
+        thumb_name = "https://telegra.ph/file/5a064f61bbe71a0da925c.jpg
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
